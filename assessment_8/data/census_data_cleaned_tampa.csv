@@ -1,0 +1,64 @@
+Municipality,GEO_ID,Firm_Sale_Amount,Ethnicity,Gender,Employee_Amount,Amount_of_Firms,State
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"Less than $5,000",Total,Total,946,527,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$5,000,$9,000",Total,Total,312,554,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $10,000-$24,999",Total,Total,1436,1444,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$25,000-$49,999",Total,Total,2832,2903,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$50,000-$99,999",Total,Total,7682,6562,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$100,000-$249,999",Total,Total,24545,13107,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$250,000 to $499,999",Total,Total,35532,11657,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$500,000-$999,999",Total,Total,54755,9591,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $1,000,000 or more",Total,Total,1019429,18114,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"Less than $5,000",Total,Female,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$5,000,$9,000",Total,Female,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $10,000-$24,999",Total,Female,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$25,000-$49,999",Total,Female,519,836,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$50,000-$99,999",Total,Female,2474,1765,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$100,000-$249,999",Total,Female,6169,3315,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$250,000 to $499,999",Total,Female,10277,2583,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$500,000-$999,999",Total,Female,11229,1987,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $1,000,000 or more",Total,Female,54011,2474,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"Less than $5,000",Total,Male,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$5,000,$9,000",Total,Male,287,397,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $10,000-$24,999",Total,Male,826,859,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$25,000-$49,999",Total,Male,1642,1712,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$50,000-$99,999",Total,Male,4022,3855,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$100,000-$249,999",Total,Male,12771,7608,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$250,000 to $499,999",Total,Male,18673,7215,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$500,000-$999,999",Total,Male,33055,5881,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $1,000,000 or more",Total,Male,306753,10569,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"Less than $5,000",Total,Equally male/female,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$5,000,$9,000",Total,Equally male/female,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $10,000-$24,999",Total,Equally male/female,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$25,000-$49,999",Total,Equally male/female,354,313,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$50,000-$99,999",Total,Equally male/female,1137,908,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$100,000-$249,999",Total,Equally male/female,5159,2027,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$250,000 to $499,999",Total,Equally male/female,5670,1696,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$500,000-$999,999",Total,Equally male/female,9192,1529,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $1,000,000 or more",Total,Equally male/female,46865,2350,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"Less than $5,000",Hispanic,Total,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$5,000,$9,000",Hispanic,Total,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $10,000-$24,999",Hispanic,Total,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$25,000-$49,999",Hispanic,Total,306,335,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$50,000-$99,999",Hispanic,Total,900,634,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$100,000-$249,999",Hispanic,Total,1918,1206,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$250,000 to $499,999",Hispanic,Total,4090,1221,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$500,000-$999,999",Hispanic,Total,6732,1182,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $1,000,000 or more",Hispanic,Total,30098,1094,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"Less than $5,000",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$5,000,$9,000",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $10,000-$24,999",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$25,000-$49,999",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$50,000-$99,999",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$100,000-$249,999",Equally Hispanic/non-Hispanic,Total,679,190,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$250,000 to $499,999",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$500,000-$999,999",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $1,000,000 or more",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"Less than $5,000",Non-Hispanic,Total,918,498,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$5,000,$9,000",Non-Hispanic,Total,304,506,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $10,000-$24,999",Non-Hispanic,Total,1149,1261,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$25,000-$49,999",Non-Hispanic,Total,2179,2490,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$50,000-$99,999",Non-Hispanic,Total,6633,5813,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$100,000-$249,999",Non-Hispanic,Total,21501,11554,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$250,000 to $499,999",Non-Hispanic,Total,29670,10073,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$500,000-$999,999",Non-Hispanic,Total,45859,8022,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $1,000,000 or more",Non-Hispanic,Total,374362,14129,Florida

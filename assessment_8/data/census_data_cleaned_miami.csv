@@ -1,0 +1,64 @@
+Municipality,GEO_ID,Firm_Sale_Amount,Ethnicity,Gender,Employee_Amount,Amount_of_Firms,State
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"Less than $5,000",Total,Total,2152,1233,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$5,000,$9,000",Total,Total,527,1115,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $10,000-$24,999",Total,Total,10489,4375,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$25,000-$49,999",Total,Total,10405,8950,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$50,000-$99,999",Total,Total,18500,17632,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$100,000-$249,999",Total,Total,51501,35846,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$250,000 to $499,999",Total,Total,79973,31088,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$500,000-$999,999",Total,Total,131663,27422,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $1,000,000 or more",Total,Total,1926920,44173,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"Less than $5,000",Total,Female,0,0,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$5,000,$9,000",Total,Female,143,291,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $10,000-$24,999",Total,Female,1036,1139,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$25,000-$49,999",Total,Female,2348,2495,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$50,000-$99,999",Total,Female,5591,5443,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$100,000-$249,999",Total,Female,14067,9747,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$250,000 to $499,999",Total,Female,18579,6877,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$500,000-$999,999",Total,Female,27227,5469,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $1,000,000 or more",Total,Female,144067,7837,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"Less than $5,000",Total,Male,1028,775,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$5,000,$9,000",Total,Male,339,661,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $10,000-$24,999",Total,Male,8676,2641,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$25,000-$49,999",Total,Male,6167,4871,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$50,000-$99,999",Total,Male,9515,9104,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$100,000-$249,999",Total,Male,29396,20485,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$250,000 to $499,999",Total,Male,47264,19283,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$500,000-$999,999",Total,Male,77572,17139,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $1,000,000 or more",Total,Male,680013,26192,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"Less than $5,000",Total,Equally male/female,0,0,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$5,000,$9,000",Total,Equally male/female,0,0,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $10,000-$24,999",Total,Equally male/female,185,587,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$25,000-$49,999",Total,Equally male/female,1858,1560,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$50,000-$99,999",Total,Equally male/female,3261,2988,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$100,000-$249,999",Total,Equally male/female,7450,5371,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$250,000 to $499,999",Total,Equally male/female,12491,4499,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$500,000-$999,999",Total,Equally male/female,23365,4250,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $1,000,000 or more",Total,Equally male/female,123384,6267,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"Less than $5,000",Hispanic,Total,272,450,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$5,000,$9,000",Hispanic,Total,0,0,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $10,000-$24,999",Hispanic,Total,868,1249,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$25,000-$49,999",Hispanic,Total,2272,2580,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$50,000-$99,999",Hispanic,Total,6172,5627,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$100,000-$249,999",Hispanic,Total,16911,11372,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$250,000 to $499,999",Hispanic,Total,23263,8749,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$500,000-$999,999",Hispanic,Total,37988,7658,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $1,000,000 or more",Hispanic,Total,208118,10243,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"Less than $5,000",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$5,000,$9,000",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $10,000-$24,999",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$25,000-$49,999",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$50,000-$99,999",Equally Hispanic/non-Hispanic,Total,361,365,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$100,000-$249,999",Equally Hispanic/non-Hispanic,Total,944,656,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$250,000 to $499,999",Equally Hispanic/non-Hispanic,Total,1567,597,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$500,000-$999,999",Equally Hispanic/non-Hispanic,Total,2964,503,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $1,000,000 or more",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"Less than $5,000",Non-Hispanic,Total,1073,706,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$5,000,$9,000",Non-Hispanic,Total,368,804,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $10,000-$24,999",Non-Hispanic,Total,8986,3061,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$25,000-$49,999",Non-Hispanic,Total,7965,6146,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$50,000-$99,999",Non-Hispanic,Total,11835,11540,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$100,000-$249,999",Non-Hispanic,Total,33058,23576,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$250,000 to $499,999",Non-Hispanic,Total,53505,21312,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$500,000-$999,999",Non-Hispanic,Total,87213,18695,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $1,000,000 or more",Non-Hispanic,Total,708822,28908,Florida

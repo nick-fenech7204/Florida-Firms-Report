@@ -1,0 +1,64 @@
+Municipality,GEO_ID,Firm_Sale_Amount,Ethnicity,Gender,Employee_Amount,Amount_of_Firms,State
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"Less than $5,000",Total,Total,1386,441,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$5,000-$9,999",Total,Total,819,632,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$10,000-$24,999",Total,Total,1907,1787,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$25,000-$49,999",Total,Total,2114,2518,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$50,000-$99,999",Total,Total,6874,6048,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$100,000-$249,999",Total,Total,20355,11572,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$250,000-$499,999",Total,Total,28737,9309,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$500,000-$999,999",Total,Total,41905,7593,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$1,000,000 or more",Total,Total,1028298,14618,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$10,000-$24,999",Total,Female,101,386,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"Less than $5,000",Total,Female,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$5,000-$9,999",Total,Female,43,160,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$25,000-$49,999",Total,Female,680,737,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$50,000-$99,999",Total,Female,1343,1540,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$100,000-$249,999",Total,Female,5286,2802,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$250,000-$499,999",Total,Female,7387,2303,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$500,000-$999,999",Total,Female,7147,1577,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$1,000,000 or more",Total,Female,39825,1914,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"Less than $5,000",Total,Male,1316,237,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$5,000-$9,999",Total,Male,766,405,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$10,000-$24,999",Total,Male,1621,1164,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$25,000-$49,999",Total,Male,1228,1545,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$50,000-$99,999",Total,Male,4169,3274,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$100,000-$249,999",Total,Male,11052,6576,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$250,000-$499,999",Total,Male,15845,5571,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$500,000-$999,999",Total,Male,26812,4585,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$1,000,000 or more",Total,Male,300413,8267,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$25,000-$49,999",Total,Equally male/female,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"Less than $5,000",Total,Equally male/female,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$5,000-$9,999",Total,Equally male/female,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$10,000-$24,999",Total,Equally male/female,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$50,000-$99,999",Total,Equally male/female,1324,1204,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$100,000-$249,999",Total,Equally male/female,3793,2119,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$250,000-$499,999",Total,Equally male/female,4746,1309,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$500,000-$999,999",Total,Equally male/female,7305,1319,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$1,000,000 or more",Total,Equally male/female,57911,1873,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"Less than $5,000",Hispanic,Total,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$5,000-$9,999",Hispanic,Total,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$10,000-$24,999",Hispanic,Total,68,210,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$25,000-$49,999",Hispanic,Total,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$50,000-$99,999",Hispanic,Total,628,857,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$100,000-$249,999",Hispanic,Total,2864,1686,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$250,000-$499,999",Hispanic,Total,4915,1638,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$500,000-$999,999",Hispanic,Total,7944,1412,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$1,000,000 or more",Hispanic,Total,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"Less than $5,000",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$5,000-$9,999",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$10,000-$24,999",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$25,000-$49,999",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$50,000-$99,999",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$100,000-$249,999",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$250,000-$499,999",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$500,000-$999,999",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$1,000,000 or more",Equally Hispanic/non-Hispanic,Total,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"Less than $5,000",Non-Hispanic,Total,1325,336,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$5,000-$9,999",Non-Hispanic,Total,803,530,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$10,000-$24,999",Non-Hispanic,Total,1825,1557,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$25,000-$49,999",Non-Hispanic,Total,1784,2138,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$500,000-$999,999",Non-Hispanic,Total,32471,5914,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$50,000-$99,999",Non-Hispanic,Total,6032,5016,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$100,000-$249,999",Non-Hispanic,Total,17161,9705,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$250,000-$499,999",Non-Hispanic,Total,22130,7322,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$1,000,000 or more",Non-Hispanic,Total,379511,10819,Florida
