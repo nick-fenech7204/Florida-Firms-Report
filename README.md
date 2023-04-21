@@ -6,17 +6,18 @@
 
 
 3. Sources:
-	(a) Annual Business Survey (ABS) APIs for 2018 
-		-Characteristics of Businesses (2018) 
+	(a) Annual Business Survey (ABS) APIs for 2019 
+		-Characteristics of Businesses (2019) 
 		-https://www.census.gov/data/developers/data-sets/abs.2018.html
-	(b)
+		-survey for 2019 that uses data from 2018
+	(b) (fill in gdp source here)
 
 
 4. Collaborators: (add contributions later)
 
-Nicholas Fenech
-David Michaels
-Rebecca Blackham
+	-Nicholas Fenech
+	-David Michaels
+	-Rebecca Blackham
 
 5. Files: (update as we go)
 
