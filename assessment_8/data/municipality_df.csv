@@ -1,0 +1,190 @@
+Municipality,GEO_ID,Firm_Sale_Amount,Ethnicity,Gender,Employee_Amount,Amount_of_Firms,State
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"Less than $5,000",null,null,2152,1233,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$5,000,$9,000",null,null,527,1115,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $10,000-$24,999",null,null,10489,4375,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$25,000-$49,999",null,null,10405,8950,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$50,000-$99,999",null,null,18500,17632,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$100,000-$249,999",null,null,51501,35846,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$250,000 to $499,999",null,null,79973,31088,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$500,000-$999,999",null,null,131663,27422,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $1,000,000 or more",null,null,1926920,44173,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"Less than $5,000",null,Female,0,0,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$5,000,$9,000",null,Female,143,291,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $10,000-$24,999",null,Female,1036,1139,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$25,000-$49,999",null,Female,2348,2495,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$50,000-$99,999",null,Female,5591,5443,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$100,000-$249,999",null,Female,14067,9747,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$250,000 to $499,999",null,Female,18579,6877,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$500,000-$999,999",null,Female,27227,5469,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $1,000,000 or more",null,Female,144067,7837,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"Less than $5,000",null,Male,1028,775,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$5,000,$9,000",null,Male,339,661,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $10,000-$24,999",null,Male,8676,2641,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$25,000-$49,999",null,Male,6167,4871,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$50,000-$99,999",null,Male,9515,9104,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$100,000-$249,999",null,Male,29396,20485,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$250,000 to $499,999",null,Male,47264,19283,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$500,000-$999,999",null,Male,77572,17139,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $1,000,000 or more",null,Male,680013,26192,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"Less than $5,000",null,Equally male/female,0,0,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$5,000,$9,000",null,Equally male/female,0,0,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $10,000-$24,999",null,Equally male/female,185,587,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$25,000-$49,999",null,Equally male/female,1858,1560,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$50,000-$99,999",null,Equally male/female,3261,2988,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$100,000-$249,999",null,Equally male/female,7450,5371,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$250,000 to $499,999",null,Equally male/female,12491,4499,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$500,000-$999,999",null,Equally male/female,23365,4250,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $1,000,000 or more",null,Equally male/female,123384,6267,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"Less than $5,000",Hispanic,null,272,450,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$5,000,$9,000",Hispanic,null,0,0,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $10,000-$24,999",Hispanic,null,868,1249,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$25,000-$49,999",Hispanic,null,2272,2580,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$50,000-$99,999",Hispanic,null,6172,5627,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$100,000-$249,999",Hispanic,null,16911,11372,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$250,000 to $499,999",Hispanic,null,23263,8749,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$500,000-$999,999",Hispanic,null,37988,7658,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $1,000,000 or more",Hispanic,null,208118,10243,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"Less than $5,000",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$5,000,$9,000",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $10,000-$24,999",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$25,000-$49,999",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$50,000-$99,999",Equally Hispanic/non-Hispanic,null,361,365,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$100,000-$249,999",Equally Hispanic/non-Hispanic,null,944,656,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$250,000 to $499,999",Equally Hispanic/non-Hispanic,null,1567,597,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$500,000-$999,999",Equally Hispanic/non-Hispanic,null,2964,503,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $1,000,000 or more",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"Less than $5,000",Non-Hispanic,null,1073,706,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$5,000,$9,000",Non-Hispanic,null,368,804,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $10,000-$24,999",Non-Hispanic,null,8986,3061,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$25,000-$49,999",Non-Hispanic,null,7965,6146,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$50,000-$99,999",Non-Hispanic,null,11835,11540,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$100,000-$249,999",Non-Hispanic,null,33058,23576,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$250,000 to $499,999",Non-Hispanic,null,53505,21312,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100,"$500,000-$999,999",Non-Hispanic,null,87213,18695,Florida
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",310M400US33100," $1,000,000 or more",Non-Hispanic,null,708822,28908,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"Less than $5,000",null,null,1386,441,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$5,000-$9,999",null,null,819,632,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$10,000-$24,999",null,null,1907,1787,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$25,000-$49,999",null,null,2114,2518,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$50,000-$99,999",null,null,6874,6048,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$100,000-$249,999",null,null,20355,11572,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$250,000-$499,999",null,null,28737,9309,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$500,000-$999,999",null,null,41905,7593,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$1,000,000 or more",null,null,1028298,14618,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$10,000-$24,999",null,Female,101,386,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"Less than $5,000",null,Female,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$5,000-$9,999",null,Female,43,160,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$25,000-$49,999",null,Female,680,737,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$50,000-$99,999",null,Female,1343,1540,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$100,000-$249,999",null,Female,5286,2802,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$250,000-$499,999",null,Female,7387,2303,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$500,000-$999,999",null,Female,7147,1577,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$1,000,000 or more",null,Female,39825,1914,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"Less than $5,000",null,Male,1316,237,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$5,000-$9,999",null,Male,766,405,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$10,000-$24,999",null,Male,1621,1164,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$25,000-$49,999",null,Male,1228,1545,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$50,000-$99,999",null,Male,4169,3274,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$100,000-$249,999",null,Male,11052,6576,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$250,000-$499,999",null,Male,15845,5571,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$500,000-$999,999",null,Male,26812,4585,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$1,000,000 or more",null,Male,300413,8267,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$25,000-$49,999",null,Equally male/female,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"Less than $5,000",null,Equally male/female,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$5,000-$9,999",null,Equally male/female,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$10,000-$24,999",null,Equally male/female,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$50,000-$99,999",null,Equally male/female,1324,1204,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$100,000-$249,999",null,Equally male/female,3793,2119,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$250,000-$499,999",null,Equally male/female,4746,1309,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$500,000-$999,999",null,Equally male/female,7305,1319,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$1,000,000 or more",null,Equally male/female,57911,1873,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"Less than $5,000",Hispanic,null,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$5,000-$9,999",Hispanic,null,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$10,000-$24,999",Hispanic,null,68,210,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$25,000-$49,999",Hispanic,null,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$50,000-$99,999",Hispanic,null,628,857,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$100,000-$249,999",Hispanic,null,2864,1686,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$250,000-$499,999",Hispanic,null,4915,1638,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$500,000-$999,999",Hispanic,null,7944,1412,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$1,000,000 or more",Hispanic,null,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"Less than $5,000",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$5,000-$9,999",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$10,000-$24,999",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$25,000-$49,999",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$50,000-$99,999",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$100,000-$249,999",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$250,000-$499,999",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$500,000-$999,999",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$1,000,000 or more",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"Less than $5,000",Non-Hispanic,null,1325,336,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$5,000-$9,999",Non-Hispanic,null,803,530,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$10,000-$24,999",Non-Hispanic,null,1825,1557,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$25,000-$49,999",Non-Hispanic,null,1784,2138,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$500,000-$999,999",Non-Hispanic,null,32471,5914,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$50,000-$99,999",Non-Hispanic,null,6032,5016,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$100,000-$249,999",Non-Hispanic,null,17161,9705,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$250,000-$499,999",Non-Hispanic,null,22130,7322,Florida
+"Orlando-Kissimmee-Sanford, FL Metro Area",310M400US36740,"$1,000,000 or more",Non-Hispanic,null,379511,10819,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"Less than $5,000",null,null,946,527,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$5,000,$9,000",null,null,312,554,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $10,000-$24,999",null,null,1436,1444,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$25,000-$49,999",null,null,2832,2903,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$50,000-$99,999",null,null,7682,6562,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$100,000-$249,999",null,null,24545,13107,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$250,000 to $499,999",null,null,35532,11657,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$500,000-$999,999",null,null,54755,9591,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $1,000,000 or more",null,null,1019429,18114,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"Less than $5,000",null,Female,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$5,000,$9,000",null,Female,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $10,000-$24,999",null,Female,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$25,000-$49,999",null,Female,519,836,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$50,000-$99,999",null,Female,2474,1765,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$100,000-$249,999",null,Female,6169,3315,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$250,000 to $499,999",null,Female,10277,2583,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$500,000-$999,999",null,Female,11229,1987,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $1,000,000 or more",null,Female,54011,2474,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"Less than $5,000",null,Male,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$5,000,$9,000",null,Male,287,397,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $10,000-$24,999",null,Male,826,859,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$25,000-$49,999",null,Male,1642,1712,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$50,000-$99,999",null,Male,4022,3855,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$100,000-$249,999",null,Male,12771,7608,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$250,000 to $499,999",null,Male,18673,7215,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$500,000-$999,999",null,Male,33055,5881,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $1,000,000 or more",null,Male,306753,10569,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"Less than $5,000",null,Equally male/female,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$5,000,$9,000",null,Equally male/female,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $10,000-$24,999",null,Equally male/female,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$25,000-$49,999",null,Equally male/female,354,313,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$50,000-$99,999",null,Equally male/female,1137,908,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$100,000-$249,999",null,Equally male/female,5159,2027,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$250,000 to $499,999",null,Equally male/female,5670,1696,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$500,000-$999,999",null,Equally male/female,9192,1529,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $1,000,000 or more",null,Equally male/female,46865,2350,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"Less than $5,000",Hispanic,null,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$5,000,$9,000",Hispanic,null,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $10,000-$24,999",Hispanic,null,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$25,000-$49,999",Hispanic,null,306,335,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$50,000-$99,999",Hispanic,null,900,634,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$100,000-$249,999",Hispanic,null,1918,1206,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$250,000 to $499,999",Hispanic,null,4090,1221,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$500,000-$999,999",Hispanic,null,6732,1182,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $1,000,000 or more",Hispanic,null,30098,1094,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"Less than $5,000",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$5,000,$9,000",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $10,000-$24,999",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$25,000-$49,999",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$50,000-$99,999",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$100,000-$249,999",Equally Hispanic/non-Hispanic,null,679,190,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$250,000 to $499,999",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$500,000-$999,999",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $1,000,000 or more",Equally Hispanic/non-Hispanic,null,0,0,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"Less than $5,000",Non-Hispanic,null,918,498,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$5,000,$9,000",Non-Hispanic,null,304,506,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $10,000-$24,999",Non-Hispanic,null,1149,1261,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$25,000-$49,999",Non-Hispanic,null,2179,2490,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$50,000-$99,999",Non-Hispanic,null,6633,5813,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$100,000-$249,999",Non-Hispanic,null,21501,11554,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$250,000 to $499,999",Non-Hispanic,null,29670,10073,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300,"$500,000-$999,999",Non-Hispanic,null,45859,8022,Florida
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",310M400US45300," $1,000,000 or more",Non-Hispanic,null,374362,14129,Florida
