@@ -18,7 +18,7 @@ We wanted to see how in the year 2018, each municipality businesses performed wi
 	-David Michaels Contributions:
 	-Rebecca Blackham Contributions:
 
-5. Files: (update as we go)
+5. Files:
 Assessment 8 Folder: 
 
 data folder:
