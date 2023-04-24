@@ -16,7 +16,7 @@ We wanted to see how in the year 2018, each municipality businesses performed wi
 
 	-Nicholas Fenech Contributions: Visuals, ETL, ETL Report, Project Report, Read Me, GitHub Repo  
 	-David Michaels Contributions:
-	-Rebecca Blackham Contributions:
+	-Rebecca Blackham Contributions: Visuals, README, 
 
 5. Files:
 
