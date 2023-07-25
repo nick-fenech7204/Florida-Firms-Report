@@ -12,9 +12,7 @@ In this small-scale yet insightful analysis, our goal was to gain a comprehensiv
 Please see these three notebooks below:
 
 * [ETL Report](etl_report.ipynb)
-
 * [Analysis and Conclusions](report_analysis.ipynb)
-
 * [Visualizations](visualizations.ipynb)
 
 ### Visualization Examples:
