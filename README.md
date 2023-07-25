@@ -9,9 +9,13 @@ In this small-scale yet insightful analysis, our goal was to gain a comprehensiv
 * [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/categories/30605)
 
 ### Reports and Analysis: 
-Please see the three notebooks for more information:
+Please see these three notebooks below:
 
+* [ETL Report](etl_report.ipynb)
 
+* [Analysis and Conclusions](report_analysis.ipynb)
+
+* [Visualizations](visualizations.ipynb)
 
 ### Visualization Examples:
 ![Scatter Plot](Images/f2c78b31-6ea9-48b9-b6b4-c4f8ea884ab3.png)
