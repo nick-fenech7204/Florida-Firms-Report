@@ -18,34 +18,7 @@ We wanted to see how in the year 2018, each municipality businesses performed wi
 	-David Michaels Contributions:
 	-Rebecca Blackham Contributions: Visuals, README, 
 
-5. Files:
-
-Assessment 8 Folder: 
-
-data folder:
-census_data_miami.csv
-census_data_tampa.csv
-census_data_orlando.csv
-census_data_cleaned_miami.csv
-census_data_cleaned_tampa.csv
-census_data_cleaned_orlando.csv
-municipality_df.csv
-gdp_df.csv
-orlando_gdp.csv
-tampa_gdp.csv
-miami_gdp.csv
-
-Images Folder:
-Screenshot (79).png
-Screenshot (80).png
-Screenshot (81).png
-transform_table.png
-
-past_notebooks Folder:
-*Notebooks used to work on the project
-
-etl_assessment_8.ipynb
-project_report_assessment_8.ipynb
-visuals_assessment_8.ipynb
-
-README.md
+5. Visualizations:
+	![Scatter Plot](Images/f2c78b31-6ea9-48b9-b6b4-c4f8ea884ab3.png)
+	![Bar Graph](Images/2bb47d3c-403e-4e56-a523-2a4b8c1a2836.png)
+	![Bar Graph](Images/e69f6960-4e04-43be-a7c3-69cf984bdf97.png)
